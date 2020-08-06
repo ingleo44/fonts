@@ -11,50 +11,50 @@
 }
 
 @font-face {
-  font-family: "prime_nova_regular";
-  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-regular.woff2")
+  font-family: "proxima_nova_regular";
+  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-regular.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-regular.woff")
+    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-regular.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "prime_nova_bold";
-  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-bold.woff2")
+  font-family: "proxima_nova_bold";
+  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-bold.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-bold.woff")
+    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-bold.woff")
+      format("woff");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_nova_semi_bold";
+  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-semi-bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-semi-bold.woff")
       format("woff");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "prime_nova_semi_bold";
-  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-semi-bold.woff2")
+  font-family: "proxima_nova_light";
+  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-light.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-semi-bold.woff")
-      format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "prime_nova_light";
-  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-light.woff2")
-      format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-light.woff")
+    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-light.woff")
       format("woff");
   font-weight: lighter;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "prime_nova_medium";
-  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-medium.woff2")
+  font-family: "proxima_nova_medium";
+  src: url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-medium.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/prime-nova-medium.woff")
+    url("https://cdn.jsdelivr.net/gh/ingleo44/fonts@master/fonts/proxima-nova-medium.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
